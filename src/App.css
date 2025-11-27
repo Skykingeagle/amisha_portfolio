@@ -1,0 +1,29 @@
+/* src/App.css */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  /* We ensure a base dark color in case the particles take a moment to load */
+  background-color: #121212;
+  color: #e0e0e0;
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+/* Custom Scrollbar for a modern look */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1e1e1e;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4a4a4a;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
