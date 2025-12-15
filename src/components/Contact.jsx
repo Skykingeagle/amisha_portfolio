@@ -60,5 +60,6 @@ const Contact = () => {
     </Box>
   );
 };
+// export
 
 export default Contact;
