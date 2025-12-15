@@ -1,0 +1,173 @@
+
+
+--- resume.pdf ---
+Amisha Gupta
+# amishagupta3011@gmail.com | H 9833556729 | § https://github.com/AmishaGupta2001
+ï https://www.linkedin.com/in/amisha-gupta-897a7720a/
+SKILLS
+Languages: Python, JavaScript, C++, C, HTML/CSS, SQL
+Frameworks & Libraries: Node.js, OpenCV
+Cloud & DevOps: AWS (Lambda, API Gateway, DynamoDB, CloudWatch), Azure, CI/CD, Docker
+Tools & Platforms: ServiceNow, Figma, Git, DBMS, StarUML
+WORK EXPERIENCE
+Tata Communications, Pune
+Jul 2024 – Present
+Full-Stack Software Engineer
+• Architecting and developing full-stack employee portals and tracking applications using Node.js and modern frontend frame-
+works.
+• Implementing and managing CI/CD pipelines for automated deployments and infrastructure provisioning, significantly reduc-
+ing manual intervention.
+Tata Communications, Pune
+Mar 2024 – Jun 2024
+Cloud Engineering Intern
+• Developed serverless services using AWS Lambda, API Gateway, and DynamoDB.
+• Integrated CloudWatch logs, metrics, and alerts for real-time observability.
+• Built secure API endpoints with validation, routing, and IAM-based access controls.
+• Assisted in cloud automation tasks across AWS and Azure environments.
+LTI Mindtree, Mumbai
+Jun 2023 – Aug 2023
+Frontend Solutions Intern
+• Designed intuitive UI/UX for a new Employee Central portal, focusing on improving user experience and workflow efficiency.
+• Developed and deployed custom frontend components on the ServiceNow platform, extending its native capabilities.
+EDUCATION
+Bharati Vidyapeeth College of Engineering, Deemed to be University
+2020 – 2024
+Bachelor of Technology in Computer Science and Business Systems
+CGPA: 8.82/10
+Relevant Coursework: Object Oriented Programming, Databases, Discrete Maths, Data Structures
+and Algorithms, Operating Systems, Computer Networks, Machine Learning, Data Mining,
+Advance Data Structures and Algorithms, Information Retrieval, Image Processing
+RN Podar
+2018 – 2020
+Central Board of Secondary Education
+77.8%
+Arya Vidya Mandir
+-2018
+Indian Certificate of Secondary Education
+93.5%
+PROJECTS
+• IoT-Based Automated Plant Watering System: Engineered a smart IoT solution using an Arduino Uno, soil moisture
+sensors and real-time weather APIs to dynamically adjust watering cycles. Implemented sensor calibration, environmental
+data parsing, and automated pump control to maintain optimal plant hydration while reducing manual intervention and water
+wastage. (C++, Arduino, IoT, REST APIs)
+• Real-Time License Plate Recognition System: Developed a high-accuracy system using Python and OpenCV to detect
+and extract alphanumeric characters from vehicle license plates via advanced image processing, contour detection, and
+character segmentation. (Python, OpenCV, Computer Vision)
+AWARDS AND CERTIFICATES
+• Problem Solving through Programming in C – NPTEL
+• Design and Analysis of Algorithm – NPTEL
+• Probability and Statistics – NPTEL
+• Python Programming – Udemy
+• AI – Coursera
+CO-CURRICULAR ACTIVITIES
+• National Financial Literacy Assessment – Top 50 percentile
+• Elementary Grade Drawing Examination – Govt. of Maharashtra
+• Intermediate Grade Drawing Examination – Govt. of Maharashtra
+• MSSA-MI Indian Games Tournament – Kho-Kho (Third Position)
+• Bandra Neighbourhood Winter Festival Art Competition (Organized by MLA Ashish Shelar) – First Place
+
+
+--- sop.pdf ---
+Some people are inspired by art, others by numbers. What motivates me, however, is inefficiency. For 
+every redundant task that can be automated, every workflow that takes longer than it should, and for 
+every system that falls apart when the demand arises, I see an opportunity to effect meaningful 
+change. From the moment I turned logic into something executable, I realised that computer science is 
+not merely about building software. It is about engineering efficiency and creating technology to 
+perform long, superfluous tasks that humans shouldn’t be burdened with or are naturally limited in 
+performing. Whether it was working on data driven automation projects or designing full stack tools 
+to replace labour intensive manual practices, my goal has always been to make systems smarter and 
+more efficient. I recognised the true meaning of engineering lies in precision, scalability, robustness 
+and thoughtful simplifications. 
+ 
+My undergraduate program in Computer Science and Business Systems from Bharati Vidyapeeth 
+Deemed University provided a strong theoretical and computational foundation. Coursework such as 
+data structures and algorithms, artificial intelligence, and machine learning, augmented by hands-on 
+experience in C and Python, strengthened my ability to decompose complex ideas into meaningful 
+abstractions. Driven to explore beyond what classroom learning offered, I undertook additional 
+courses to deepen my understanding of advanced computational paradigms.​
+ 
+During my third year, I had my first experience with intelligent automation while working on a 
+number plate recognition system for my academic project. This work deepened my understanding of 
+computer vision pipelines, pre-processing techniques and algorithmic pattern recognition. It sparked a 
+real curiosity about how software can interpret and act on data with minimal human intervention. 
+During the implementation of the project, a few challenges were faced. Some images were blurred or 
+poorly lit, others had plates at awkward angles and several contained heavy background noise that 
+confused early versions of my algorithm. Instead of relying on a single technique, I experimented with 
+different pre-processing steps, tested multiple edge-detection filters, and re-designed my segmentation 
+logic until the system could consistently isolate the plate region. Overcoming these setbacks taught 
+me how to troubleshoot systematically and ignited my passion to learn about how software learns to 
+perceive and act on information. 
+ 
+Galvanized by the outcome of this project, I pursued a more ambitious problem in my final year. I 
+designed an automated plant watering system powered by real time weather intelligence. This 
+involved programming the microcontroller, calibrating sensors, parsing live environmental data, and 
+implementing decision logic that adjusted irrigation based on changing conditions. A patent for this 
+system has been filed recognising its potential to improve vegetative health while minimising water 
+waste for time-constrained users. This marked a meaningful milestone in my journey towards 
+sustainable automation. Together these projects crystalised my understanding of how intelligent 
+systems can automate complex workflows and respond autonomously to real world stimuli. The 
+progression from computer vision to data driven automation, solidified my motivation to pursue 
+advanced training in AI driven software engineering. 
+ 
+My internship at LTIMindtree, a subsidiary of Larsen & Toubro, deepened my appreciation for user 
+centered engineering and iterative improvements. I worked on modernising the Employee Central 
+Portal which is a system used daily by their employees yet hindered by convoluted navigation and 
+fragmented workflows. I redesigned the portal’s end-to-end UI/UX and created cleaner interaction 
+patterns before deploying them on the ServiceNow developer instance. This project illustrated how 
+even small design and engineering decisions can meaningfully improve how people interact with 
+technology. However, what truly shaped my professional identity was my experience at Tata 
+Communications.  
+ 
+At Tata Communications, I initially worked with the Cloud Engineering team which was responsible 
+for automating deployments, maintaining cloud infrastructure and ensuring systems ran reliably at 
+scale. Working across AWS and Azure ecosystems, I built automation that turned error prone 
+deployment routines into structured and predictable flows. I contributed to developing CI/CD 
+pipelines, writing deploying scripts that encoded infrastructure decisions as reproducible logic, 
+monitored configurations that reduced manual repetitions, mitigated deployment failures and 
+bolstered the reliability of the system. Through these tasks, I learned the value of invisible 
+engineering. The kind that users never notice but organisations rely on. 
+ 
+After transitioning to the Service Operations team, I developed three full stack web portals, each 
+designed to replace error prone and time consuming legacy practices. The portals were responsible for 
+automating daily efficiency reporting, consolidating order tracking and measuring operational 
+performance. I built these systems by architecting its API layer, authentication pipelines, data schema 
+and real time dashboards. What once existed as scattered spreadsheets evolved into secure, 
+API-driven, database-backed systems with instantaneous visibility and accountability used company 
+wide and reducing manual errors, processing delays and fragmented reporting. While engineering 
+these systems, I noticed a familiar pattern. With every workflow that I designed, every automation 
+that I built and every bottleneck that I removed, I found myself drawn to the subtle friction points and 
+gaps that most people overlook but are the ones that quietly define whether a system scales or 
+collapses. These are the challenges that most compel me. 
+ 
+This naturally made Stanford the next step in my journey. The culture of interdisciplinary work 
+focuses on solving real world problems that align directly with my ambition. Courses such as 
+Artificial Intelligence: Principles and Techniques (CS 221), Machine Learning (CS 229) and HCI 
+design (CS 247) perfectly intersect my interests in intelligence, engineering and usability. I am deeply 
+inspired by Stanford’s HAI initiative, and the Vision and Learning Lab. Equally exciting is Stanford’s 
+collaborative culture. I hope to contribute to the Stanford Computer Science Student Council, the 
+Women in CS (WiCS) organization and Stanford AI Club, where I hope to share my industry 
+experiences and learn from peers solving diverse engineering challenges. 
+ 
+At Stanford, I am particularly inspired by Professor Andrew Ng’s work in data-centric and 
+human-centered AI. His approach to improving real-world AI systems through better data, practical 
+engineering, and usability resonates with my own journey. Having built end-to-end systems, I have 
+seen how critical data quality, workflow design, and user experience are to making systems reliable. I 
+am drawn to recent Data-Centric AI efforts, like creating systematic data-quality pipelines and 
+human-in-the-loop annotation workflows. I hope to contribute to projects that create intuitive 
+annotation tools, data-management interfaces, interactive error-analysis dashboards, or AI-driven 
+applications. Working with Professor Ng would allow me to merge my engineering background with 
+my dedication to socially grounded AI, producing solutions that are not only technically robust but 
+meaningfully impactful. 
+​
+In the short term, I aim to work as a software engineer building intelligent automation systems that 
+improve efficiency. In the long term, I hope to integrate distributed infrastructures with the capability 
+of adaptive decision making to solve high impact inefficiencies across various industries. 
+With a foundation in full-stack development and intelligent automations, and a deep commitment to 
+engineering systems that eliminate inefficiencies, I am prepared to contribute meaningfully and 
+leverage Stanford’s MSCS Program to become and join the ranks of engineers determined to drive 
+socially rooted data-centric AI systems and research adaptive decision making capabilities for 
+distributed infrastructure. 
+I sincerely thank the admission committee for considering my application. 
+
+
+Amisha Gupta | Software Engineer

@@ -59,21 +59,21 @@ const Home = () => {
           Contact Me
         </Button>
         <Button
-          component="a" // Assuming your resume will be in the public folder
-          href="/Macy_Steve_Resume.pdf"
-          target="_blank"
+          component="a" 
+          href="/Resume.pdf"
+          download
           variant="outlined"
           color="secondary"
           size="large"
         >
-          Download CV
+          Download Resume
         </Button>
       </Box>
       <Box>
-        <IconButton href="https://linkedin.com/in/dummy-profile" target="_blank" sx={{ color: '#fff', '&:hover': { color: '#90caf9' }}}>
+        <IconButton href="https://www.linkedin.com/in/amisha-gupta-897a7720a" target="_blank" sx={{ color: '#fff', '&:hover': { color: '#90caf9' }}}>
           <LinkedInIcon fontSize="large"/>
         </IconButton>
-        <IconButton href="https://github.com/dummy-profile" target="_blank" sx={{ color: '#fff', '&:hover': { color: '#90caf9' }}}>
+        <IconButton href="https://github.com/AmishaGupta2001" target="_blank" sx={{ color: '#fff', '&:hover': { color: '#90caf9' }}}>
           <GitHubIcon fontSize="large"/>
         </IconButton>
       </Box>
