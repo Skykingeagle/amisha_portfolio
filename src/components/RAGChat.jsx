@@ -13,7 +13,8 @@ import ChatIcon from "@mui/icons-material/Chat";
 import CloseIcon from "@mui/icons-material/Close";
 import SendIcon from '@mui/icons-material/Send';
 
-const API_URL = "http://localhost:5000/chat";
+// const API_URL = "http://localhost:5000/chat";
+const API_URL = "/api/chat";
 
 export default function RAGChat() {
   const [open, setOpen] = useState(false);
